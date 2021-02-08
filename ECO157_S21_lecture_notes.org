@@ -1,0 +1,520 @@
+* ECO 157 - Spring 2021
+** Lecture Notes
+*** Feb 4
+**** tacit knowledge and how to learn
+Learning economics is like learning to ride a bike.
+It sucks.
+
+I remember thinking after reading the Charlie Brown encyclopedia "What do you
+mean you can't learn to fly a plane by reading? Of course you can, I just did!"
+But I was wrong. You can learn the basics of the controls of a plan. you can
+learn what the parts are called. But the *real knowledge* of how to fly a plane is
+largely muscle memory--what economists call "*tacit knowledge*". 
+
+In a similar way I know the alphabet, and I know how to find any of the letters
+on a keyboard. But I can't do the alphabet backwards or tell you what the 17th
+letter is, or even immediately point to any particular letter on my keyboard.
+The keyboard knowledge is muscle memory. I can type, but I can't tell you where
+to put your fingers. The alphabet is stored along with a little jingle that I
+can't do backwards, not as a sort of file I can see all at once.
+
+Similarly, *learning economics (or anything worth while, for that matter) isn't
+as simple as watching videos*. Watching educational videos sure feels good.
+Bathing in knowledge and information, feeling it wash over you like sea weed on
+a beach at high tide. But it doesn't absorb. You've got to work for it.
+
+I think *economics is worth the work*. Not everyone agrees. Quite frankly, you
+might do better dropping out and becoming a plumber (you'd certainly make more
+money than you would as a teacher or social media manager or whatever else). If
+you don't care enough to stand up to the challenge, go do something else. I
+won't judge you. One of many interesting things about economics is that its
+relevance doesn't depend on people even knowing that it exists. In the same way
+you don't have to learn about gravity to fall out of a tree, you don't need to
+know economics to face costs. But if you aren't willing to face the costs of
+putting in the effort--and I can't do it for you, you've got to do it
+yourself--then you really should consider doing something more productive with
+your time.
+
+I had a romantic vision when I started grad school. Lots of people have bad
+memories of their college classes and lots of people are economically ignorant
+(notably: almost every single person you hear speaking on TV, especially those
+in positions of power). I imagined myself giving impassioned lectures that
+finally broke through. I would share the beauty I saw in the logic underlying
+the world and shake people out of their hare brained superstitions. My students
+would carry me out of class cheering and celebrating. But, it turns out,
+teaching economics is much more like the joke: how many psychiatrists does it
+take to change a light bulb? Just one, but the light bulb has to really want to change.
+
+**I can't learn to ride a bike for you** You've got to put in the hours. And
+it's not merely a case of putting in time, but putting in the *right* time. And
+what defines the *right* time is not something either of us can know in advance.
+Frankly, a lot of this material isn't going to fully click with you for a long
+time after your final grades are submitted. For that reason, I've set up my
+grading system to reflex a mix of things rather than just how well you master
+the material in this limited amount of time. 
+
+**** With that said, let's talk about:
+***** How this class is going to works
+****** Blackboard
+****** Proctor U
+****** MindTap
+****** Reading assignments
+******* Feedback/resubmits
+****** The syllabus
+****** Synchronous meetings
+******* The less I talk the better (usually)
+******* Really depends on what students bring.  
+******* Recordings
+There will certainly be some overlap from one recording to another. Ditto for
+overlap with readings, videos, etc. But the overlap will always be less than 100%.
+
+**** What is Economics
+***** Applied common sense
+Disclaimer: common sense is a misnomer. I'm not sure any of us really has common
+sense. Certainly high profile people are severely lacking in it, so we should be
+skeptical of people like me who claim to have common sense but are basically nobodies.
+***** Micro vs Macro
+****** Microeconomists are wrong about specific things, macroeconomists are wrong in general.
+****** Micro: small scale questions, good methodology
+****** Macro: large scale questions, questionable methodology
+****** Less snide version:
+Macro asks questions about bit (complex) systems and so is a) inherently more
+interesting, and b) inherently less likely to be frustrated by the complexities
+of real life. Good macro requires good Micro which is why (traditionally)
+Principles of micro is 101 and macro is 102. I don't know how Farmingdale ended
+up with the numbers backwards, but here we are. There's no such thing as good
+macroeconomics without good microeconomics, but the reverse is true (even though
+macroeconomic conditions can and do affect microeconomic decisions).
+
+The big takeaway for 156 students should be awe at how incredible "the economy"
+is, and humility at the notion of how difficult it is to wrap your head around
+it, even under the best circumstances. 
+
+For 157 students, the takeaway should be awe at how intricate the world is, but
+how powerful a few assumptions rigorously applied can be.
+
+***** How economists have described it:
+****** "The study of how society manages its scarce resources" (Mankiw)
+****** "The study of how to get the most out of life" (Cowen and Tabarrok)
+****** Science of scarcity and choice
+Scarcity implies choice, and choice implies (opportunity) cost
+****** Science of exchange
+****** Study of unintended consequences of individual and collective choices
+Law of unintended consequences. 
+****** Study of incentives
+****** Study of rationality (kinda-sorta)
+******* Behavior economics tells us we aren't as rational as neoclassical models assume.
+Others argue that rationality is a more complicated concept than the Behavioralists think or than the neoclassical models are capable of handling.
+***** *Economics is a way of thinking about the world*
+****** It's a set of tools that focus your attention. 
+****** It's a set of stories that make sense of things.
+****** It's a description of a basic logical structure that you can't see with your eyes, but you can with economic theory.
+***** There is more than one "right" answer, but infinite possible wrong answers
+***** Quote:
+"All social phenomena emerge from the actions and interactions of individuals who are choosing in response to expected additional benefits and costs to themselves." (Paul Heyne)
+Economics (and a lot of social science more broadly) is basically a set of concepts derived from the notion in that quote.
+
+*Law of unintended consequences*
+
+**Economics is about much more than just money.** 
+It's about understanding the world as an outcome of the choices we make. 
+It's built around some key assumptions/axioms we'll get into below.
+It's worth remembering that we have to be careful with assumptions. **Always keep an eye out for hidden assumptions that might be biasing your view of the world.**
+
+**** Dunbar's number
+The rules that make sense with friends and family aren't the same as the rules
+that make sense with strangers. Sharing is good at home, but market prices are
+better when the question is "how do we manage scarcity in groups of more than a
+hundred or so people?"
+*** Feb 9
+**** Grading notes
+Lots of missing assignments from this weekend!
+***** Economics of grading
+What incentives do I create by making exceptions? 
+If I'm mostly concerned with shaping future behavior, I should discourage people
+from missing deadlines in the future!
+
+On the other hand... (there's always another hand!)
+Although you knew there was a deadline, a) it's the start of a new class so
+there's lots of room for confusion, and b) it turns out Blackboard's deadlines
+were set to last semester's dates, so you might have seen a lack of
+notifications and figured the MindTap work was enough.
+
+So *this week only* I'm going to be lenient.
+
+Will I be lenient next week? Relevant economic concept:
+
+***** Credible commitment!
+I face 2 options: A) be lenient or B) not. 
+What do I get with either option? (since I'm the one making the decision, not you,
+it's my outcomes that matter)
+A: I get a more chaotic grading schedule, and possibly have more grading work to
+do period (it's worth noting that I hate grades and grading)
+B: I get a more predictable schedule, and I incentivize better behavior
+throughout the semester.
+
+Since B is clearly better for me, I can credibly commit to sticking with the
+syllabus policy of not taking late homework.
+
+(Note that MindTap, because it grades for me, makes it easier to move in the
+direction of option A without imposing costs on me, which is why there's only a
+25% penalty, not a 100% penalty.)
+
+***** Don't forget to sign up for MindTap!
+As long as you sign up early on this week, you should be able to minimize the
+grade impact. 
+
+**** Positive and Normative 
+***** Economics is a field with lots of disagreement (though we do agree on many things. e.g. most economists oppose the Drug War). "If you laid all economists end to end, you still wouldn't reach a conclusion." 
+***** There are two basic ways we might disagree:
+****** Positive analysis: "is" statements
+******* "What is the effect on unemployment of raising the minimum wage?"
+******* Disagreements on methodology are possible, but positive disagreements should revolve around verifiable facts (or their absence).
+****** Normative analysis: "should/ought" statements
+******* "If we care about the working poor, we should expand the Earned Income Tax Credit."
+******* Disagreements come down to differences in values
+****** *Ideological Pluralism* Even though I'm sure I'm right and people who identify as ____ are wrong, I really don't want to live in a world without those people. (Most of the time: I'm ready to dismiss Nazi's out of hand, but I'm not ready to round them up and put them in camps or otherwise restrict their peaceful exercise of freedom.)
+
+
+**** Big Foundational ideas underlying economics
+***** Methodological individualism
+decision rights (property rights)
+***** People have goals and try to achieve them
+****** pollution... what is good. What goals do people have?
+Value is subjective and people pursue things they value. 
+THE GOOD LIFE
+"Awesome points" = Utility (that which we maximize)
+People act in their own self-interest.
+***** There isn't enough time or other resources for everyone to get everything they want.
+wants>means      
+***** Marginal Thinking
+****** Beer and pizza example
+
+***** Voluntary trade creates win-win situations
+
+Revealed preferences
+
+***** Large scale outcomes can be orderly even (esp.) without anyone in charge
+
+socialism = centralized control of the means of production
+egalitarianism = share and share alike
+
+
+**** *CLASSROOM QUESTIONS:*
+***** Which car is more efficient: Prius or Towncar?
+***** What's the optimal amount of pollution?
+Reduce Reuse Recycle
+***** What does it mean when we say "The USA is richer than Haiti?"
+****** What are the causes of those differences?
+Productivity
+
+***** What's better: diamonds or water?
+
+
+**** Takeaways:
+***** We're all working together
+***** We adjust to conditions (and change conditions through our own actions)
+***** There's only so much to go around
+***** We're each put in charge of some small part of society's resources and we each get to decide how to use those resources ("people have property/decision rights")
+***** **The rules of our society** shape our incentives (often in subtle and surprising ways) 
+and so we need to be very careful about what rules we create, enforce, ignore, etc.
+
+**** Aside (Methodological Individualism):
+ Consider this article
+ https://getpocket.com/explore/item/industry-insiders-don-t-use-their-products-like-we-do-that-should-worry-us?utm_source=pocket-newtab
+
+The inventor of Lunchables (whose family mostly avoids the product for health
+reasons) argues that it's mostly a good thing, but... 
+
+"Drane has come to believe that his industry—if not the Lunchables product
+specifically—should acknowledge its accountability for issues like childhood
+obesity, one of several causes he’s taken up as a volunteer." 
+
+What would happen if they released a healthy version of Lunchables that didn't
+taste as good (because it wasn't full of sugar and salt)? 
+
+They'd be making that industry a bit better, right? But if they're the only
+product getting healthier, they might just lose business to other players. It's
+something where the industry as a whole might improve if everyone works
+together, but individuals working individually probably face steep costs for
+moving in that direction individually. 
+
+*** Lecture 2
+**** *Opportunity Cost* (of choice X)
+Value foregone from your next best alternative.
+***** To evaluate a decision we can't just look at what we gain
+We also have to consider what could have been.
+Economists' refrain: "At what cost?" as in "what are we missing out on?"
+***** TANSTAAFL
+       
+***** Dylan and Clapton
+What is the cost of seeing Clapton in concert
+(next best alternative: paying $40 to see Dylan, for an expected value of $50)
+
+*Question:* What is the cost of: 
+****** Free school for all
+****** Paid maternity leave
+**** Utility
+That which we maximize. 
+"Awesome points"
+***** We all have different desires/needs/goals. We place different values on different scarce resources. 
+****** *Value is subjective*
+***** Utility (or the made up quantification, "utils") is about flourishing, from the perspective of the relevant decision maker.
+What provides me with utility (e.g. bread) might provide you with disutility (e.g. gluten problems)
+**** *Rationality*
+For our purposes, a decision can be considered rational if the benefits exceed the (opportunity) costs from the perspective of the decision maker.
+***** MB > MC (individual rationality)
+***** Through trade this rationality leads (under the right circumstances) to collective efficiency.
+**** Law of Diminishing Marginal Utility
+***** *Ceteris paribus*
+***** How can you use water?
+****** Drinking
+****** fire extinguishing 
+****** Watering plants
+****** Trees
+****** Washing dishes
+****** Laundry
+****** Washing car
+****** fish farms
+****** showering
+****** baths
+****** toilets
+****** surgery 
+****** hydro
+****** brushing teeth
+****** cooking
+****** "industry"
+****** slip 'n' slide
+****** cleaning sidewalks
+****** water fights
+****** watering lawns
+****** recreation
+****** Pools
+****** Transportation
+
+**** Marginal costs/benefits
+Beer/pizza example
+**** Big fallacies (tempting but incorrect ideas):
+***** Sunk cost fallacy
+****** A cost we can't avoid doesn't help us distinguish between our available options.
+****** Rational action is forward looking. 
+***** broken window fallacy
+****** It's easy to make work. It's hard to make value
+****** Destruction is not good for the economy.
+**** Two graphs:
+***** MB/MC
+***** PPF
+****** Slope tells us about the marginal sacrifice we face when trying to get more of one good.
+
+*** Monday
+**** Summary/response clarification. 
+***** I'm catching up on grading 
+which means I'm being somewhat fast and loose with grades. 
+But once I'm caught up I'll be able to be pickier again. 
+***** Please resubmit within a week if you get a low grade
+***** By next week we'll be far enough in that we won't have time for resubmissions 
+So try to figure out how to get a proper submission 
+**** DON'T USE .pages FORMAT!
+**** (partially) unwritten rule of late submissions.
+*** Lecture 3: Gains from trade
+**** Reverse Coincidence of Wants
+I want what you have and vice versa.
+
+**** Smithian gains - "division of labor"
+split up tasks so we can be more productive, get more done with less effort.
+
+**** Ricardian gains. Comparative Advantage
+
+*simplifying assumptions*
+Opp. cost is **value foregone**, but for the next week, we'll think of it as stuff not produced.
+We'll also assume that more stuff is better. That's not strictly true, but it's going to make our lives easier.
+
+***** Here are two (conflicting) superstitions many Americans hold:
+****** A: When America trades with a poorer country, that country is probably gaining at our expense
+****** B: When America trades with a poorer country, our country is probably gaining at their expense
+
+All else held equal, only one of those positions can be true. An economically
+ignorant person might believe that any given exchange falls into one possibility
+or the other depending on "how good a deal" we're getting.
+
+This is the *zero-sum* view of the world. Such a view is appropriate for sports
+ball (I win, you lose). But we've already seen that **voluntary** trade is a
+*positive-sum* thing.
+
+Here's the big lesson we're going to explain: *free trade makes both sides
+wealthier* (ceteris paribus) *and **especially** to the extent they're
+different*
+
+Trade between Canada and the U.S. allows both countries to produce more valuable
+stuff (as determined by the decisions of millions of consumers with a great deal
+of freedom... in most markets) using fewer resources (with many caveats we'll
+only just touch on in the second half the the class).
+
+There are complications, yes, but 9 times out of 10 "free trade is good" is
+basically correct. 
+
+(notice: I'm sneaking in an implicit normative view... where is it?)
+
+Most Americans are basically okay with the Canada-US example. But what about
+Honduras-US? or China-US? (Was the China-US story different a generation ago
+than it is now?)
+
+*I assert:* Canada-US is a much weaker example than any two countries who are
+**dissimilar** (as long as we're talking about voluntary trade... which is just
+*a touch outside the scope of this class, or any other class you're required to
+*take. Which is not good. It's up to you to fill out that gap; the traditional
+*way to do that is by debating with friends late into the night while drinking
+*in your dorm. There might be healthier alternatives these days.
+
+***** The model:
+
+*Two-goods, two-party economy with constant returns to scale*
+We're taking some real liberties with simplifying assumptions here.
+We've only got two people (or companies, or countries, or villages, or
+whatever), and they make/consume two things. And our PPFs will be straight
+lines, because the math is easier. (I'll make an ABM in the near future to show
+the logic generalizes.)
+
+Two trading partners, with PPFs over two products, consider the possibility of
+shifting their production to specialize and trade.
+
+Rick and Eli are stranded on a desert island and survive on fish and coconuts.
+
+Initially they're on opposite sides of the island. After a few days of
+experimentation they each figure out what they're capable of "producing" on this
+island on any given day:
+Rick can gather as many as R_c coconuts (if he devotes all his time thusly), or
+as many as R_f fish.
+Eli can produce a maximum of E_c or E_f coconuts or fish.
+
+Let's make up some numbers, then return to the abstract geometry afterwords:
+
+R_c: 10
+R_f: 5
+E_c: 5
+E_f: 10 
+
+Let's just assume we both devote half our time to either good. I get 5 coconuts
+and 2.5 fish (2 some days, 3 other days). Eli gets 5 fish and 2.5 coconuts.
+
+Rick and Eli encounter each other on the island. Can we do any better by
+trading?
+
+If I specialize in coconuts and Eli in fish, we end up with a daily total of 10
+coconuts and 10 fish instead of the 7.5 of each we started with. 
+
+Through specialization and trade, we can "grow the [economics] pie". Let's say
+I'm a better negotiator than Eli. I trade him 4 coconuts for 6 fish. In that
+case, I end up with a bigger share, and Eli gets a smaller share (how to add
+fish and coconuts is a discussion for ECO 156). But Eli still ends up with more
+food than he gets without trade. 
+
+We've been assuming that fish and coconuts are both basically as good as one
+another, but to bring a touch of realism back into our model, we should probably
+acknowledge that Eli and I would both rather have a fish than a coconut. Since
+Eli is better at catching fish, he's essentially wealthier than I am. Still, we
+both come out ahead compared to where we would be without trade.
+
+That's the easy case: one partner is better at the other at producing one good,
+and the other is better at producing the other good. Of course there are gains
+from trade here.
+
+Let's consider all the possibilities for A and B trading goods C and D
+
+****** A is better at C, B is better at D
+****** A and B are equally good at C, but B is better at D
+****** A and B are equally good at C and D
+****** B is better at C and D
+
+
+***** ABM model?
+
+### MAKE SHORT VIDEO(s)
+*** Lecture 4: Supply and Demand
+
+**** What each curve means
+***** Law of Supply/Demand
+***** Magic shoe example
+**** Equilibrium and price change
+***** shifting curves
+
+**** In class meeting (July 15)
+
+
+****** Mindtap deadlines
+
+****** PPF examples
+
+****** And comparative advantage example
+
+****** taxes and subsidies
+**** In class meeting (July 17)
+
+***** Micro
+****** Normal and inferior goods
+****** Substitutes and complements
+****** Price controls
+
+*** Lecture 5: Elasticity
+**** responsiveness
+**** formula:
+% change in X / % change in Y = dX/X / dY/Y
+dX/X * Y/dY = dX/dY * Y/X
+**** types:
+***** own-price elasticity of demand
+***** own-price elasticity of supply
+***** cross-price elasticity ...
+***** income elasticity ...
+***** etc.
+**** maximizing revenue 
+***** simple rule: 
+if your buyers are highly responsive, lower your price. If not, raise your price
+***** on the supply side:
+if you're buying from a market that isn't very responsive to price changes, try
+to get away with paying less!
+***** caveat: usually we're dealing with something like "perfect competition"
+**** Things that affect elasticity:
+***** Time frame
+***** availability of substitutes (i.e. ability to adapt/make due/go without/substitute)
+***** definition of the market (e.g. candy or M&Ms?)
+**** WHY IT MATTERS: APPLICATIONS:
+     :PROPERTIES:
+     :ID:       7fde5459-f61f-4dae-9558-aad8c3c88ef7
+     :END:
+***** Gun buy-back programs (e.g. city of Oakland vs. country of Australia)
+***** War on drugs
+***** (as we've already seen: profit maximization)
+***** Slave redemption (see MRU)
+*** Lecture 6: Welfare Economics
+**** The Knowledge Problem
+***** What do we make? Where do we make it? Who makes it? How do they make it?
+***** Tacit knowledge (backwards bike video)
+***** "Knowledge of Time and Place" (From Hayek's *Use of Knowledge in Society*... also, tin mine example)
+***** Markets aggregate and generate knowledge necessary to make *rational* use of resources
+****** i.e. MB > MC (in the minds of the relevant decision makers)
+***** Wisdom of crowds
+***** Markets/prices "crowd source" the question of relative scarcity
+****** e.g. 
+considering how much people want good X and how difficult it is to provide it while considering the opportunity costs of everyone involved.
+
+**** Total surplus
+**** Dead weight loss
+**** taxes/subsidies
+***** Impact on Q
+***** Impact on P_buyer and P_seller
+***** BONUS: Laffer curve
+**** price controls (re-run kiviq?)
+***** Binding/non-binding
+***** Floors/ceilings (minimum/maximum legal prices)
+****** Effects of binding price floors 
+****** Effects of binding price ceilings 
+
+** Post midterm
+Coming up:
+*** Spillovers
+*** Public/private goods
+*** public choice
+*** competition and imperfect competition
+
+ *Suggestion* 
+We should take a quiz at the end of each week, and it should all add up point wise to the final 
