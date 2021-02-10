@@ -127,6 +127,10 @@ that make sense with strangers. Sharing is good at home, but market prices are
 better when the question is "how do we manage scarcity in groups of more than a
 hundred or so people?"
 *** Feb 9
+Lecture notes: https://github.com/RickWeber/ECO157-lecture-notes/blob/main/ECO157_S21_lecture_notes.org
+
+They're a bit sparse looking because that's what works for me. They'll fill out
+as the semester progresses.
 **** Grading notes
 Lots of missing assignments from this weekend!
 ***** Economics of grading
@@ -145,6 +149,8 @@ So *this week only* I'm going to be lenient.
 Will I be lenient next week? Relevant economic concept:
 
 ***** Credible commitment!
+Thomas Schelling
+
 I face 2 options: A) be lenient or B) not. 
 What do I get with either option? (since I'm the one making the decision, not you,
 it's my outcomes that matter)
@@ -169,8 +175,20 @@ Great job Jennifers M and G. These sorts of submissions are exactly what I want
 to see for these assignments. 
 
 
+****** Which videos to watch/playlists
+If you made a submission based on the wrong set of videos (or you missed the
+toaster video) please re-submit.
+
+****** "What does this 0 mean?"
+Check the comments in your grade book for the assignment. If I tell you to
+please fix something and resubmit, it means just that.
+
+Chris, sorry you're the sacrificial Guinea pig 
+
 **** Positive and Normative 
-***** Economics is a field with lots of disagreement (though we do agree on many things. e.g. most economists oppose the Drug War). "If you laid all economists end to end, you still wouldn't reach a conclusion." 
+***** Economics is a field with lots of disagreement  
+(though we do agree on many things. e.g. most economists oppose the Drug War).
+"If you laid all economists end to end, you still wouldn't reach a conclusion." 
 ***** There are two basic ways we might disagree:
 ****** Positive analysis: "is" statements
 ******* "What is the effect on unemployment of raising the minimum wage?"
@@ -178,7 +196,11 @@ to see for these assignments.
 ****** Normative analysis: "should/ought" statements
 ******* "If we care about the working poor, we should expand the Earned Income Tax Credit."
 ******* Disagreements come down to differences in values
-****** *Ideological Pluralism* Even though I'm sure I'm right and people who identify as ____ are wrong, I really don't want to live in a world without those people. (Most of the time: I'm ready to dismiss Nazi's out of hand, but I'm not ready to round them up and put them in camps or otherwise restrict their peaceful exercise of freedom.)
+****** *Ideological Pluralism* 
+Even though I'm sure I'm right and people who identify as ____ are wrong, I
+really don't want to live in a world without those people. (Most of the time:
+I'm ready to dismiss Nazi's out of hand, but I'm not ready to round them up and
+put them in camps or otherwise restrict their peaceful exercise of freedom.) 
 
 
 **** Big Foundational ideas underlying economics
@@ -189,11 +211,13 @@ decision rights (property rights)
 Value is subjective and people pursue things they value. 
 THE GOOD LIFE
 "Awesome points" = Utility (that which we maximize)
+"Util" one unit of utility. 
 People act in their own self-interest.
 ***** There isn't enough time or other resources for everyone to get everything they want.
 wants>means      
 ***** Marginal Thinking
 ****** Beer and pizza example
+****** Diamond-water paradox
 
 ***** Voluntary trade creates win-win situations
 
@@ -204,6 +228,7 @@ Revealed preferences
 socialism = centralized control of the means of production
 egalitarianism = share and share alike
 
+knowledge problem vs incentive problem.
 
 **** *CLASSROOM QUESTIONS:*
 ***** Which car is more efficient: Prius or Towncar?
@@ -224,6 +249,9 @@ Productivity
 ***** **The rules of our society** shape our incentives (often in subtle and surprising ways) 
 and so we need to be very careful about what rules we create, enforce, ignore, etc.
 
+75 vs 55
+Law vs. Legislation. 
+Informal vs Formal
 **** Aside (Methodological Individualism):
  Consider this article
  https://getpocket.com/explore/item/industry-insiders-don-t-use-their-products-like-we-do-that-should-worry-us?utm_source=pocket-newtab
@@ -243,6 +271,18 @@ product getting healthier, they might just lose business to other players. It's
 something where the industry as a whole might improve if everyone works
 together, but individuals working individually probably face steep costs for
 moving in that direction individually. 
+*** Feb 11
+**** Beer and pizza example.
+**** *CLASSROOM QUESTIONS:*
+***** Which car is more efficient: Prius or Towncar?
+***** What's the optimal amount of pollution?
+Reduce Reuse Recycle
+***** What does it mean when we say "The USA is richer than Haiti?"
+****** What are the causes of those differences?
+Productivity
+
+***** What's better: diamonds or water?
+
 
 *** Lecture 2
 **** *Opportunity Cost* (of choice X)
@@ -520,7 +560,7 @@ considering how much people want good X and how difficult it is to provide it wh
 Coming up:
 *** Spillovers
 *** Public/private goods
-*** public choice
+*** public choice (economics of politics)
 *** competition and imperfect competition
 
  *Suggestion* 
