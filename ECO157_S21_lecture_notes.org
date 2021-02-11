@@ -206,6 +206,25 @@ put them in camps or otherwise restrict their peaceful exercise of freedom.)
 **** Big Foundational ideas underlying economics
 ***** Methodological individualism
 decision rights (property rights)
+****** Example
+   Consider this article
+   https://getpocket.com/explore/item/industry-insiders-don-t-use-their-products-like-we-do-that-should-worry-us?utm_source=pocket-newtab
+
+  The inventor of Lunchables (whose family mostly avoids the product for health
+  reasons) argues that it's mostly a good thing, but... 
+
+  "Drane has come to believe that his industry—if not the Lunchables product
+  specifically—should acknowledge its accountability for issues like childhood
+  obesity, one of several causes he’s taken up as a volunteer." 
+
+  What would happen if they released a healthy version of Lunchables that didn't
+  taste as good (because it wasn't full of sugar and salt)? 
+
+  They'd be making that industry a bit better, right? But if they're the only
+  product getting healthier, they might just lose business to other players. It's
+  something where the industry as a whole might improve if everyone works
+  together, but individuals working individually probably face steep costs for
+  moving in that direction individually. 
 ***** People have goals and try to achieve them
 ****** pollution... what is good. What goals do people have?
 Value is subjective and people pursue things they value. 
@@ -232,16 +251,66 @@ knowledge problem vs incentive problem.
 
 **** *CLASSROOM QUESTIONS:*
 ***** Which car is more efficient: Prius or Towncar?
-***** What's the optimal amount of pollution?
-Reduce Reuse Recycle
+***** What's better: diamonds or water?
+
+
+*** Feb 11
+**** House keeping/recap
+***** don't forget:
+MindTap and reading assignments
+Put reminders into your phone/email/whatever calendar system works for you
+because I'm not always going to remind you.
+***** last time
+****** Big ideas underlying econ
+******* Methodological individualism -- all decisions are made by individual people
+    Consider this article
+    https://getpocket.com/explore/item/industry-insiders-don-t-use-their-products-like-we-do-that-should-worry-us?utm_source=pocket-newtab
+
+   The inventor of Lunchables (whose family mostly avoids the product for health
+   reasons) argues that it's mostly a good thing, but... 
+
+   "Drane has come to believe that his industry—if not the Lunchables product
+   specifically—should acknowledge its accountability for issues like childhood
+   obesity, one of several causes he’s taken up as a volunteer." 
+
+   What would happen if they released a healthy version of Lunchables that didn't
+   taste as good (because it wasn't full of sugar and salt)? 
+
+   They'd be making that industry a bit better, right? But if they're the only
+   product getting healthier, they might just lose business to other players. It's
+   something where the industry as a whole might improve if everyone works
+   together, but individuals working individually probably face steep costs for
+   moving in that direction individually. 
+******* Rationality -- people do their best, subject to constraints (including limited understanding)
+******* Scarcity -- we make choices which means giving up some things to get (hopefully better) other things
+******* Trade is positive-sum -- gains from trade
+******* Emergent order -- organic, bottom-up order
+******** Example: "How many cans of shave cream are there?"
+Enough. Contrast that with availability of gov't services where there is
+basically always either too much or too little.
+******* Marginal thinking... 
+***** *small group question*: What is the optimal amount of pollution?
+**** Thinking on the margin
+***** Beer and pizza example.
+You've got a $30 gift card for Changing Times, expires midnight tonight, is good
+for beer or pizza only. 
+****** Simplifying assumptions:
+"Ceteris Paribus lager"
+Continuous variables 
+******* Assume a can opener.
+****** Law of diminishing marginal returns
+Simpler thought experiment to plot in your notes:
+
+x-axis "number of cookies/beers/whatever example good you prefer"
+y-axis "extra utils per unit" ("Marginal utility")
+
+**** *CLASSROOM QUESTION:*
 ***** What does it mean when we say "The USA is richer than Haiti?"
 ****** What are the causes of those differences?
 Productivity
 
-***** What's better: diamonds or water?
 
-
-**** Takeaways:
+**** Takeaways (intro to Econ)
 ***** We're all working together
 ***** We adjust to conditions (and change conditions through our own actions)
 ***** There's only so much to go around
@@ -249,39 +318,14 @@ Productivity
 ***** **The rules of our society** shape our incentives (often in subtle and surprising ways) 
 and so we need to be very careful about what rules we create, enforce, ignore, etc.
 
-75 vs 55
-Law vs. Legislation. 
-Informal vs Formal
-**** Aside (Methodological Individualism):
- Consider this article
- https://getpocket.com/explore/item/industry-insiders-don-t-use-their-products-like-we-do-that-should-worry-us?utm_source=pocket-newtab
+****** Subtle point on the rules: de facto and dejure
 
-The inventor of Lunchables (whose family mostly avoids the product for health
-reasons) argues that it's mostly a good thing, but... 
-
-"Drane has come to believe that his industry—if not the Lunchables product
-specifically—should acknowledge its accountability for issues like childhood
-obesity, one of several causes he’s taken up as a volunteer." 
-
-What would happen if they released a healthy version of Lunchables that didn't
-taste as good (because it wasn't full of sugar and salt)? 
-
-They'd be making that industry a bit better, right? But if they're the only
-product getting healthier, they might just lose business to other players. It's
-something where the industry as a whole might improve if everyone works
-together, but individuals working individually probably face steep costs for
-moving in that direction individually. 
-*** Feb 11
-**** Beer and pizza example.
-**** *CLASSROOM QUESTIONS:*
-***** Which car is more efficient: Prius or Towncar?
-***** What's the optimal amount of pollution?
-Reduce Reuse Recycle
-***** What does it mean when we say "The USA is richer than Haiti?"
-****** What are the causes of those differences?
-Productivity
-
-***** What's better: diamonds or water?
+| formal                     | informal                       |
+|----------------------------+--------------------------------|
+| 55mph on LIE               | 75mph                          |
+| "Legislation"              | "Law"                          |
+| De jure                    | De facto                       |
+| what the gov't can enforce | what individuals plan based on |
 
 
 *** Lecture 2
