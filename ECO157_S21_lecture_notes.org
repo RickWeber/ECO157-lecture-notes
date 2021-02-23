@@ -273,8 +273,8 @@ because I'm not always going to remind you.
    specifically—should acknowledge its accountability for issues like childhood
    obesity, one of several causes he’s taken up as a volunteer." 
 
-   What would happen if they released a healthy version of Lunchables that didn't
-   taste as good (because it wasn't full of sugar and salt)? 
+   What would happen if they released a healthy version of Lunchables that
+   didn't taste as good (because it wasn't full of sugar and salt)? 
 
    They'd be making that industry a bit better, right? But if they're the only
    product getting healthier, they might just lose business to other players. It's
@@ -304,30 +304,61 @@ Simpler thought experiment to plot in your notes:
 x-axis "number of cookies/beers/whatever example good you prefer"
 y-axis "extra utils per unit" ("Marginal utility")
 
-**** *CLASSROOM QUESTION:*
-***** What does it mean when we say "The USA is richer than Haiti?"
-****** What are the causes of those differences?
-Productivity
+*** Feb 18
+**** From homework
+One take away from Three Blindspots reading: empathy is valuable!
+In the context of the reading: empathy helps us to (partly) see into our own
+blind spots. 
+
+But more generally, economics is often about taking someone else's perspective
+in order to better understand the incentives *as they perceive them* in a given
+situation. 
+
+Related concept: *Division of labor/knowledge*
+
+*** Feb 23
+
+**** House keeping
+Reading assignment: Have the book by Thursday or you'll have a bad time!
+Also, format is going to become pretty routine. 
+
+Midterm is coming up. A couple people have already emailed me that they don't
+have the Proctor U requirements. To those students: please email me again with a
+couple dates/times you want to have me manually proctor your exam. 
+
+***** What's on the exam?
+
+***** What's the format?
+
+***** How might I prepare?
+Bear in mind, it's irrational to do something where MB < MC (as you perceive the
+subjective benefits and costs of a higher grade). So there's nothing wrong with
+not going for 100
+
+****** Wing it
+
+****** Cram
+
+****** Quantity studying
+
+****** Quality studying
 
 
-**** Takeaways (intro to Econ)
-***** We're all working together
-***** We adjust to conditions (and change conditions through our own actions)
-***** There's only so much to go around
-***** We're each put in charge of some small part of society's resources and we each get to decide how to use those resources ("people have property/decision rights")
-***** **The rules of our society** shape our incentives (often in subtle and surprising ways) 
-and so we need to be very careful about what rules we create, enforce, ignore, etc.
 
-****** Subtle point on the rules: de facto and dejure
+**** PPFs, efficiency, diminishing returns
+PPF and efficiency
+PPF and bowed out shape
 
-| formal                     | informal                       |
-|----------------------------+--------------------------------|
-| 55mph on LIE               | 75mph                          |
-| "Legislation"              | "Law"                          |
-| De jure                    | De facto                       |
-| what the gov't can enforce | what individuals plan based on |
+Start for next time: guns/butter LI economy thought experiment.
+**** Breakout groups
+***** Questions:
+****** Wrestlemania tickets quesiton
+****** Explain if (and why) a hurricane or war is "good for the economy"
+****** What does it mean to say "The USA is richer than Haiti?"
+******* What causes those differences.
 
-
+**** Explain BWF
+**** Explain Sunk Cost fallacy
 *** Lecture 2
 **** *Opportunity Cost* (of choice X)
 Value foregone from your next best alternative.
