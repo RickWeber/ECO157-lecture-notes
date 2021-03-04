@@ -344,7 +344,7 @@ not going for 100
 ****** Quality studying
 
 
-
+       
 **** PPFs, efficiency, diminishing returns
 PPF and efficiency
 PPF and bowed out shape
@@ -352,21 +352,16 @@ PPF and bowed out shape
 Start for next time: guns/butter LI economy thought experiment.
 **** Breakout groups
 ***** Questions:
-****** Wrestlemania tickets quesiton
-****** Explain if (and why) a hurricane or war is "good for the economy"
-****** What does it mean to say "The USA is richer than Haiti?"
-******* What causes those differences.
+****** Wrestlemania tickets question
+*** Feb 25
 
-**** Explain BWF
-**** Explain Sunk Cost fallacy
-*** Lecture 2
-**** *Opportunity Cost* (of choice X)
+**** Econ Club meeting Mar 4th
+**** Recap: *Opportunity Cost* (of choice X)
 Value foregone from your next best alternative.
 ***** To evaluate a decision we can't just look at what we gain
 We also have to consider what could have been.
 Economists' refrain: "At what cost?" as in "what are we missing out on?"
 ***** TANSTAAFL
-       
 ***** Dylan and Clapton
 What is the cost of seeing Clapton in concert
 (next best alternative: paying $40 to see Dylan, for an expected value of $50)
@@ -374,46 +369,11 @@ What is the cost of seeing Clapton in concert
 *Question:* What is the cost of: 
 ****** Free school for all
 ****** Paid maternity leave
-**** Utility
-That which we maximize. 
-"Awesome points"
-***** We all have different desires/needs/goals. We place different values on different scarce resources. 
-****** *Value is subjective*
-***** Utility (or the made up quantification, "utils") is about flourishing, from the perspective of the relevant decision maker.
-What provides me with utility (e.g. bread) might provide you with disutility (e.g. gluten problems)
-**** *Rationality*
-For our purposes, a decision can be considered rational if the benefits exceed the (opportunity) costs from the perspective of the decision maker.
-***** MB > MC (individual rationality)
-***** Through trade this rationality leads (under the right circumstances) to collective efficiency.
-**** Law of Diminishing Marginal Utility
-***** *Ceteris paribus*
-***** How can you use water?
-****** Drinking
-****** fire extinguishing 
-****** Watering plants
-****** Trees
-****** Washing dishes
-****** Laundry
-****** Washing car
-****** fish farms
-****** showering
-****** baths
-****** toilets
-****** surgery 
-****** hydro
-****** brushing teeth
-****** cooking
-****** "industry"
-****** slip 'n' slide
-****** cleaning sidewalks
-****** water fights
-****** watering lawns
-****** recreation
-****** Pools
-****** Transportation
+**** Recap: Two graphs
+***** MB/MC
+***** PPF
+****** Slope tells us about the marginal sacrifice we face when trying to get more of one good.
 
-**** Marginal costs/benefits
-Beer/pizza example
 **** Big fallacies (tempting but incorrect ideas):
 ***** Sunk cost fallacy
 ****** A cost we can't avoid doesn't help us distinguish between our available options.
@@ -421,24 +381,13 @@ Beer/pizza example
 ***** broken window fallacy
 ****** It's easy to make work. It's hard to make value
 ****** Destruction is not good for the economy.
-**** Two graphs:
-***** MB/MC
-***** PPF
-****** Slope tells us about the marginal sacrifice we face when trying to get more of one good.
+**** Discussion questions
+****** Explain if (and why) a hurricane or war is "good for the economy"
+****** What does it mean to say "The USA is richer than Haiti?"
+******* What causes those differences.
+**** Gains from Trade
 
-*** Reading assignment follow up
-**** Summary/response clarification. 
-***** I'm catching up on grading 
-which means I'm being somewhat fast and loose with grades. 
-But once I'm caught up I'll be able to be pickier again. 
-***** Please resubmit within a week if you get a low grade
-***** By next week we'll be far enough in that we won't have time for resubmissions 
-So try to figure out how to get a proper submission 
-**** DON'T USE .pages FORMAT!
-**** For I, Pencil assignment...
-***** RE: presence of mastermind
-***** RE: disruption to process
-*** Lecture 3: Gains from trade
+*** Mar 2
 **** Reverse Coincidence of Wants
 I want what you have and vice versa.
 
@@ -552,6 +501,15 @@ Let's consider all the possibilities for A and B trading goods C and D
 ***** ABM model?
 
 ### MAKE SHORT VIDEO(s)
+
+*** Mar 4
+
+**** Housekeeping: ask review questions on blog/discord/Econ Club forum
+
+**** Housekeeping: midterm exam coming up
+**** Supply and Demand. Kiviq example
+
+**** 
 *** Lecture 4: Supply and Demand
 
 **** What each curve means
